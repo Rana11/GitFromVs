@@ -10,7 +10,7 @@ namespace GitFromVs
     {
         static void Main(string[] args)
         {
-            // v 1.9
+            // v 1.11
         }
     }
 }
